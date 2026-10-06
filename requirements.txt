@@ -1,0 +1,2 @@
+# Chỉ cần cho tạo hình; mô hình, CSV và unittest dùng thư viện chuẩn.
+matplotlib>=3.8,<4

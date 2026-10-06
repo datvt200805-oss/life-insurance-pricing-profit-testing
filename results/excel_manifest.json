@@ -1,0 +1,8 @@
+﻿{
+    "input_sha256":  "0150e4ace3832586caacdd1cd31c1d9520dada68b448d5579edc807747722e68",
+    "workbook_sha256":  "36be3a5460d0562db7155ed21a7d0fd29b70cd6823743bc9ce46a03aa2a11aba",
+    "engine":  "Microsoft Excel",
+    "excel_version":  "16.0",
+    "fixed_premium":  168227.00006892276,
+    "mode":  "recalculated_from_current_json_csv_in_read_only_workbook"
+}

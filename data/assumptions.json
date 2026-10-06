@@ -1,0 +1,14 @@
+{
+  "issue_age": 30,
+  "term": 20,
+  "sum_assured": 100000000,
+  "initial_policies": 1,
+  "target_margin": 0.10,
+  "lapse_rate": 0.05,
+  "discount_rate": 0.05,
+  "acquisition_expense": 150000,
+  "maintenance_expense": 30000,
+  "expense_inflation": 0.03,
+  "first_commission": 0.30,
+  "renewal_commission": 0.05
+}
